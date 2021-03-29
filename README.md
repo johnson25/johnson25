@@ -1,6 +1,6 @@
 - 👋 Hello! Welcome to my Github. I am Johnson Kamireddy and I am currently studying MSc in Data Science & AI at Bourenmouth University, Bournemouth, UK. Currently working on my disseration on the topic "Arctic's accelerated ice melt is a consequence of Global warming" using Machine learning and data analytics.
 
-- I have an MEngg degree in Computer Engineering from Unviersity of Cincinnati, Cincinnati, USA and a B.tech in Electronics & Communciations Engineering from Karunya University, Coimbatore, India. I worked as a Software Engineer at Capgemini, Mumbai in the area of Business Intelligence. Another year as a Data Analyst at Nukasani Group, Chicago.
+- I have an MEngg degree in Computer Engineering from Unviersity of Cincinnati, Cincinnati, USA and a B.tech in Electronics & Communciations Engineering from Karunya University, Coimbatore, India. I worked as a Software Engineer at Capgemini, Mumbai in the area of Business Intelligence for almost an year and Another year as a Data Analyst at Nukasani Group, Chicago.
 
 - 👀 I’m interested in Environmental/ Earth data science and want to contribute my part in protecting the world we live in. My ambition is to become a good story teller by bringing the data to life and excavate the story behind them numbers.
 
