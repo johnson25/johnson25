@@ -13,8 +13,8 @@
 - 🌱 I’m currently learning concepts in Python, R, ML, DL, Computer vision, NLP, Data Visualization, Environmental/ Earth science, GIS.
 
 - 📫 How to reach me:
-  -LinkedIn : https://www.linkedin.com/in/johnson2521/
-  -Instagram : von.jk
+  * LinkedIn : https://www.linkedin.com/in/johnson2521/
+  * Instagram : von.jk
 <!---
 johnson25/johnson25 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
