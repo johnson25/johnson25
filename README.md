@@ -4,11 +4,11 @@
 
 - 👀 I’m interested in Environmental/ Earth data science and want to contribute my part in protecting the world we live in. My ambition is to become a good story teller by bringing the data to life and excavate the story behind them numbers.
 
-  -I am research oriented and spend most of the time on self-learning, especially topics ranging from Data science, programming, AI, ML, DL to environemnetal, political, social
+  * I am research oriented and spend most of the time on self-learning, especially topics ranging from Data science, programming, AI, ML, DL to environemnetal, political, social
   and economics.
-  -Apart from Data Science I love to travel and do travel photography. Being a nature lover I mostly shoot beautiful landscapes and occasionally few cityscapes. You can have a   
+  * Apart from Data Science I love to travel and do travel photography. Being a nature lover I mostly shoot beautiful landscapes and occasionally few cityscapes. You can have a   
   look at my pictures on my Instagram @von.jk
-  -I am a huge fan of Liverpool FC since 2003 and glad to have won the title after 30 freaking years.   
+  * I am a huge fan of Liverpool FC since 2003 and glad to have won the title after 30 freaking years.   
 
 - 🌱 I’m currently learning concepts in Python, R, ML, DL, Computer vision, NLP, Data Visualization, Environmental/ Earth science, GIS.
 
