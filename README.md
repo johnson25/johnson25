@@ -2,7 +2,7 @@
 
 - I have an MEngg degree in Computer Engineering from Unviersity of Cincinnati, Cincinnati, USA and a B.tech in Electronics & Communciations Engineering from Karunya University, Coimbatore, India. I worked as a Software Engineer at Capgemini, Mumbai in the area of Business Intelligence for almost an year and Another year as a Data Analyst at Nukasani Group, Chicago.
 
-- 👀 I’m interested in Environmental/ Earth data science and want to contribute my part in protecting the world we live in. My ambition is to become a good story teller by bringing the data to life and excavate the story behind them numbers.
+- 👀 I’m interested in Environmental/ Earth data science and want to contribute my part in protecting the world we live in. My ambition is to become a good story teller by bringing the data to life and excavate the story behind the numbers.
 
   * I am research oriented and spend most of the time on self-learning, especially topics ranging from Data science, programming, AI, ML, DL to environemnetal, political, social
   and economics.
